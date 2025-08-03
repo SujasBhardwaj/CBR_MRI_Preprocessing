@@ -1,0 +1,8 @@
+This file loops through the subjects from the directory named incoming_dicoms and converts them to BIDS format. 
+Once the conversion is completed, the subject folder is moved to another directory named "processed".
+The final output is saved in a directory named "bids_output".
+Requirements: installations: dcm2bids, dcm2niix.
+Better to make a new environment!
+Happy Coding!
+  
+    
